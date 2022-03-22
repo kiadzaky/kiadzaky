@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiadzaky
 - 👀 I’m interested in Codeigniter 3 and Laravel for framework and MySql for database
-- 🌱 I’m currently learning python, node
+- 🌱 I’m currently learning python, node js, react js
 - 📫 How to reach me at my gmail: kkhiahebat@gmail.com or my facebook account, that name is Kia Dzaky Eriyoko
 
 <!---
